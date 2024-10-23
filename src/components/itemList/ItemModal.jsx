@@ -32,7 +32,7 @@ import { newConversation } from '../../redux/actions.js';
 import { useNavigate } from 'react-router-dom';
 import { createOrder } from '../../redux/order/orderActions.js';
 
-const googleMapsApiKey = 'AIzaSyBPez5lmoB9ttDTsPk4cXlO28OfDWM37yk';
+const googleMapsApiKey = '';
 const mapContainerStyle = {
   height: '300px',
   width: '100%',
